@@ -35,7 +35,7 @@ div.testimonyphoto{
     img{
         height:auto;
         max-width: 100%;
-        border-style:outset;
+        border-style: solid;
         border-color:gray;
         border-width:4px;
     }
@@ -45,7 +45,7 @@ div.prayerphoto{
     img{
         height:auto;
         max-width: 100%;
-        border-style:outset;
+        border-style:solid;
         border-color:gray;
         border-width:4px;
     }
@@ -61,7 +61,7 @@ div.forumone{
     img{
         height:auto;
         max-width: 100%;
-        border-style:outset;
+        border-style:solid;
         border-color:black;
         border-width:4px; 
     }
@@ -71,7 +71,7 @@ div.forumtwo{
     img{
         height:auto;
         max-width: 100%;
-        border-style:outset;
+        border-style:solid;
         border-color:black;
         border-width:4px;
     }
